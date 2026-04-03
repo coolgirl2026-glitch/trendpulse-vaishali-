@@ -27,8 +27,10 @@ This project fetches real-time trending data from HackerNews API, processes it, 
 - task2_cleaning.py → Clean and convert data to CSV
 - task3_analysis.py → Analyze trends using Pandas & NumPy
 - task4_visualization.py → Create charts and graphs
-- TRENDPULSE_dashboard.pbix → (trendpulse_dashboardpng.png)
- Interactive Power BI dashboard
+- TRENDPULSE_dashboard.pbix →
+- Dashboard Preview
+![TrendPulse Dashboard](trendpulse_dashboard.png)
+ 
 
 
 ⚙️ How to Run
